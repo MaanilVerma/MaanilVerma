@@ -24,9 +24,9 @@ Hey !! Firstly, thanks for visiting my Profile. Let me share my Skill Set with y
 👉 React.js <br>
 👉 HTML <br>
 👉 CSS <br>
-👉 Node.js <br>
+👉 Node.js etc. <br>
 
-I have created Frontend Projects using <strong> React.js, JavaScript </strong> which you can check in my projects section.
+I have created Frontend Projects using <strong>React.js, JavaScript</strong> which you can check in my projects section.
 
 
 Have a Project in my Mind or Want to know anything about me?
