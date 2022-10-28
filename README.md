@@ -21,10 +21,16 @@ I am a BSc. Statistics Graduate fascinated by programming. This fascination took
 Hey !! Firstly, thanks for visiting my Profile. Let me share my Skill Set with you:
 
 👉 JavaScript  <br>
-👉 React.js <br>
+👉 TypeScript  <br>
+👉 ReactJS <br>
+👉 NextJS  <br>
+👉 React Unit Testing  <br>
+👉 Jest Unit Testing  <br>
 👉 HTML <br>
 👉 CSS <br>
-👉 Node.js etc. <br>
+👉 SASS  <br>
+👉 NodeJS etc. <br>
+👉 Java  <br>
 
 I have created Frontend Projects using <strong>React.js, JavaScript</strong> which you can check in my projects section.
 
