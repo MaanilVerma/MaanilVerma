@@ -78,7 +78,7 @@ Have a Project in my Mind or Want to know anything about me?
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=MaanilVerma&repo=Super-Chat-App&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&theme=algolia" />
 </a>
 
-<a href="https://github.com/MaanilVerma/photo-gallery">
+<a href="https://github.com/MaanilVerma/zaiqa-restaurant">
   <img align="right" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=MaanilVerma&repo=photo-gallery&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&theme=algolia" />
 </a> 
 
