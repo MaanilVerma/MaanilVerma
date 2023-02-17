@@ -1,7 +1,3 @@
-
-![Logo](https://media-exp1.licdn.com/dms/image/C4D16AQFx-y5Zejil6Q/profile-displaybackgroundimage-shrink_200_800/0/1626701073899?e=1632960000&v=beta&t=8Whhp2rOzstdUbKH65AsGe8AaaEdzLJYQulGDJ07Dak)
-
-    
 # Hi, I'm Maanil! 👋 <br>
 
 <p align="center">
@@ -29,8 +25,10 @@ Hey !! Firstly, thanks for visiting my Profile. Let me share my Skill Set with y
 👉 HTML <br>
 👉 CSS <br>
 👉 SASS  <br>
-👉 NodeJS etc. <br>
+👉 NodeJS <br>
 👉 Java  <br>
+👉 GraphQL  <br>
+👉 Storybook  <br>
 
 I have created Frontend Projects using <strong>React.js, JavaScript</strong> which you can check in my projects section.
 
