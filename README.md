@@ -12,7 +12,9 @@
 
   
 ## 🚀 About Me
-I am a BSc. Statistics Graduate fascinated by programming. This fascination took me in the field of Frontend Development using React Framework.
+👉 Building & Shipping Products End to End from Scratch. Problem Solver looking to solve problems at scale. 
+
+👉 Worked at 2 startups, where built application from scratch, and one of the application is LIVE on Samsung Platform with 30K users.
 
 Hey !! Firstly, thanks for visiting my Profile. Let me share my Skill Set with you:
 
@@ -29,9 +31,7 @@ Hey !! Firstly, thanks for visiting my Profile. Let me share my Skill Set with y
 👉 Java  <br>
 👉 GraphQL  <br>
 👉 Storybook  <br>
-
-I have created Frontend Projects using <strong>React.js, JavaScript</strong> which you can check in my projects section.
-
+👉 Prisma  <br>
 
 Have a Project in my Mind or Want to know anything about me?
 
