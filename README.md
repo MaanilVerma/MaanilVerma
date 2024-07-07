@@ -14,7 +14,7 @@
 ## 🚀 About Me
 👉 Building & Shipping Products End to End from Scratch. Problem Solver looking to solve problems at scale. 
 
-👉 Worked at 2 startups, where built application from scratch, and one of the application is LIVE on Samsung Platform with 30K users.
+👉 Worked at 3 startups, where built application from scratch, and one of the application is LIVE on Samsung Platform with 30K users.
 
 Hey !! Firstly, thanks for visiting my Profile. Let me share my Skill Set with you:
 
