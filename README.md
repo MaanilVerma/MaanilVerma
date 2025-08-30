@@ -92,7 +92,7 @@ I’m looking for opportunities to **push the frontier of AI x Fullstack Develop
 
 If you’re building ambitious products where **milliseconds and UX define success**, let’s talk.  
 
-📧 **maanilv8@gmail.com**  
+📧 **vermamaanil97@gmail.com**  
 
 ---
 
@@ -106,10 +106,10 @@ If you’re building ambitious products where **milliseconds and UX define succe
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaanilVerma&repo=Model-Vault&theme=ambient_gradient" />
 </a>
 <a href="https://github.com/MaanilVerma/Pokedex">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaanilVerma&repo=Pokedex&theme=ambient_gradient" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaanilVerma&repo=Pokedex&theme=ambient_gradient&cache_seconds=1000" />
 </a>
 <a href="https://github.com/MaanilVerma/Random-Quote-Generator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaanilVerma&repo=Random-Quote-Generator&theme=ambient_gradient" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaanilVerma&repo=Random-Quote-Generator&theme=ambient_gradient&cache_seconds=1000" />
 </a>
 
 
