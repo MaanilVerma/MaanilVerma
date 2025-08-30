@@ -11,11 +11,26 @@
 
 ## 🚀 Who I Am  
 
-I’m a **Fullstack Engineer (React/Next.js + Node.js)** who thrives on building **real products at scale**.  
-Over the last 3+ years, I’ve built **6+ applications** serving **1M+ users**, from **real-time live-streaming platforms** to **AI-powered SaaS tools**.  
+I’m a **Fullstack Engineer** who thrives on building **real products at scale**.  
+Over the last 3.5+ years, I’ve built **6+ applications** serving **1M+ users**, from **real-time live-streaming platforms** to **AI-powered SaaS tools**.  
 
 What sets me apart: I don’t just code features — I **design for scale, performance, and impact**.  
 Whether it’s shaving **92% off load times**, scaling a **30K concurrent live video system**, or shipping a **modular AI platform** from scratch — I deliver software that lasts.  
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,graphql,prisma,postgres,mongodb,tailwind,html,css,sass,py,git,github,docker,aws&perline=20" />
+</p>
+
+- **Languages & Frameworks:** JavaScript, TypeScript, React, Next.js, Node.js, Python, Java  
+- **Databases:** PostgreSQL, MongoDB, Prisma  
+- **Infra & Tools:** Docker, Express, GraphQL, Strapi, DigitalOcean  
+- **Styling & UI:** TailwindCSS, ShadCN, MUI, Storybook, Framer Motion  
+- **Testing:** Jest, React Testing Library  
+- **AI Tools:** OpenAI APIs, LangChain, HuggingFace, vLLM   
 
 ---
 
@@ -48,7 +63,7 @@ Whether it’s shaving **92% off load times**, scaling a **30K concurrent live v
 
 ---
 
-### **Keywordly**
+### **Keywordly** - https://keywordly.ai
 - Built **fullstack SaaS app** (Next.js + Node.js + MongoDB + Prisma).  
 - Features: Auth, Subscription, Pricing, Credit Management.  
 - Built **complex dashboards** with Tree Graphs, Radial Trees & advanced tables (sorting, filtering, search).  
@@ -56,21 +71,12 @@ Whether it’s shaving **92% off load times**, scaling a **30K concurrent live v
 
 ---
 
-### **Story.com**
+### **Story.com** - https://story.com
 - Architected **modular frontend** (Next.js + TypeScript) for scale.  
 - Integrated **real-time WebSocket updates** for AI-agent feedback.  
 - Built **AI-powered story generator + video editor**.  
 - Worked with **agent orchestration system** for movie creation (scene planning, dialogue generation, and editing loops).  
 - Implemented **SEO + technical SEO optimizations**, boosting organic traffic.  
-
----
-
-## 💡 Techstack  
-
-✅ **Frontend Performance & UX** — Next.js, React, Tailwind, Framer Motion  
-✅ **Scalable Backends** — Node.js, GraphQL, Prisma, Postgres, Supabase  
-✅ **Real-time Systems** — WebSockets, Streaming APIs, Event-driven pipelines  
-✅ **AI Integrations** — OpenAI, HuggingFace, custom prompt pipelines  
 
 ---
 
