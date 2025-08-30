@@ -102,15 +102,17 @@ If you’re building ambitious products where **milliseconds and UX define succe
 <a href="https://github.com/MaanilVerma/video-editor">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaanilVerma&repo=video-editor&theme=ambient_gradient" />
 </a>
-<a href="https://github.com/MaanilVerma/Random-Quote-Generator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaanilVerma&repo=Random-Quote-Generator&theme=ambient_gradient" />
-</a>
 <a href="https://github.com/MaanilVerma/Model-Vault">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaanilVerma&repo=Model-Vault&theme=ambient_gradient" />
 </a>
 <a href="https://github.com/MaanilVerma/Pokedex">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaanilVerma&repo=Pokedex&theme=ambient_gradient" />
-</a>  
+</a>
+<a href="https://github.com/MaanilVerma/Random-Quote-Generator">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaanilVerma&repo=Random-Quote-Generator&theme=ambient_gradient" />
+</a>
+
+
 
 ---
 
